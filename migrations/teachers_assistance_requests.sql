@@ -17,3 +17,4 @@ CREATE TABLE assistance_requests (
   student_feedback TEXT,
   teacher_feedback TEXT
   );
+Add and seed tables teachers, assistance_requests"
